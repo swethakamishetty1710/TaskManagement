@@ -852,3 +852,12 @@ The project demonstrates:
 - Layered backend architecture
 
 The project can be extended further with real-time notifications and Generative AI capabilities.
+---
+
+## 30. Submission
+
+This repository contains the completed Task Management System implementation.
+
+The project includes secure JWT authentication, task management, team management, comments, attachments, and secure logout.
+
+Optional extensions such as real-time notifications and Generative AI can be added as future enhancements.
