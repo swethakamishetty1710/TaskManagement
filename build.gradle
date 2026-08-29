@@ -45,6 +45,8 @@ dependencies {
     testAnnotationProcessor 'org.projectlombok:lombok'
 
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    implementation 'com.openai:openai-java:4.52.0'
 }
 tasks.named('test') {
     useJUnitPlatform()
